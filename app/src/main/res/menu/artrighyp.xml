@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_arsinh"
+        android:title="arsinh(" />
+    <item
+        android:id="@+id/menu_arcosh"
+        android:title="arcosh(" />
+    <item
+        android:title="artanh("
+        android:id="@+id/menu_artanh" />
+</menu>

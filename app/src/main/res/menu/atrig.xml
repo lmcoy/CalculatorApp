@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_asin"
+        android:title="asin(" />
+    <item
+        android:id="@+id/menu_acos"
+        android:title="acos(" />
+    <item
+        android:title="atan("
+        android:id="@+id/menu_atan" />
+</menu>
